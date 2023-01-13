@@ -1,7 +1,7 @@
 <div id="header" align="left">
 Tools
   
-    <img src="assets/icons/git.svg"/>
+    <svg src="assets/icons/git.svg"/>
 </div>
 Connect with me
 
