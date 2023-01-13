@@ -10,5 +10,6 @@
   </a>
 </div>
 Want to know about me
-<a href="https://www.linkedin.com/in/arun-s-k-8aa3a7225/" text="Check my profile">
+<a href="https://www.linkedin.com/in/arun-s-k-8aa3a7225/">
+  <b> MY PROFILE </b>
 </a>
