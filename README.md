@@ -10,5 +10,5 @@
   </a>
 </div>
 Want to know about me
-<a href="" subject="Check my profile">
+<a href="" text="Check my profile">
 </a>
