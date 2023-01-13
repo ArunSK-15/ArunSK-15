@@ -12,6 +12,7 @@
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 
 Connect with me
 
