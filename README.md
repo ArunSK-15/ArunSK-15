@@ -13,6 +13,7 @@
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
 
 Connect with me
 
