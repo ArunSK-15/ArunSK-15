@@ -7,13 +7,22 @@
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 </div>
 
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
+
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 
 Connect with me
 
