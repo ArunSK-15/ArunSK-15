@@ -1,7 +1,7 @@
 <div id="header" align="left">
 Tools
   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg/">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="10" height="10"/>
 </div>
 Connect with me
 
