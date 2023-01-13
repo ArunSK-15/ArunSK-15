@@ -1,5 +1,5 @@
 <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
-<img height=30 src="assets/icon/qt.png"/>
+<img height=30 src="/assets/icon/qt.png"/>
 
 Connect with me
 
