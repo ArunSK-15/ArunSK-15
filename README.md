@@ -1,4 +1,4 @@
-<div id="header" align="centre">
+<div id="header" align="centre" text-align='centre>
   <a href="https://www.linkedin.com/in/arun-s-k-8aa3a7225/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
