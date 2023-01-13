@@ -1,4 +1,4 @@
-<img src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
+<img src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png" height="20" width-"20"/>
 
 Connect with me
 
