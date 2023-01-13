@@ -1,7 +1,7 @@
 <div id="header" align="left">
 Tools
   
-    <img src="assets/icons/qt.png"/>
+    <img src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
 Connect with me
 
