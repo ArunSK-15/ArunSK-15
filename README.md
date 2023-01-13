@@ -1,8 +1,5 @@
-<div id="header" align="left">
-Tools
-  
-    <img src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
-</div>
+<img src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
+
 Connect with me
 
 <div id="header" align="left" use-margin="auto">
