@@ -2,18 +2,16 @@
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
+
 <div id="code_language">
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
 </div>
+
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
-
-
-
-<img height=30 src="/assets/icon/qt.png"/>
 
 Connect with me
 
