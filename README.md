@@ -6,8 +6,8 @@
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
-
     </td>
+    
     <td>
       <div id="code_language">
   Languages<br>
