@@ -11,19 +11,28 @@
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 </div>
 
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
+<div id="design">
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
+</div>
 
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/>
+<div id="ds-frameworks">
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/>
+<div/>
+  
+<div id="web-frameworks">
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<div/>
 
+<div id="tools">
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
-
+<div/>
+  
 Connect with me
 
 <div id="header" align="left" use-margin="auto">
