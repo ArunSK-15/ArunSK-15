@@ -1,25 +1,18 @@
-<table>
-  <tr>
-    <td>
-      <div id="ide-tools">
-  IDE<br>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+
+
+<div style="width: 49%; float: left;">
+          Languages<br>
+          <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+          <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+          <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+          <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+          <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+</div>
+
+<div style="width: 49%; float: right;">
+    <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
-    </td>
-    
-    <td>
-      <div id="code_language">
-  Languages<br>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-</div>
-    </td>
-  </tr>
-</table>
 
 
 
