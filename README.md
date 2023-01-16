@@ -1,11 +1,11 @@
 <div id="ide-tools">
-  IDE
+  IDE\
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
 
 <div id="code_language">
-  Languages
+  Languages\
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
@@ -14,26 +14,29 @@
 </div>
 
 <div id="design">
-  
+  Design\
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>
 </div>
 
 <div id="ds-frameworks">
+  Data Science - Framework\
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/>
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/>
 <div/>
   
 <div id="web-frameworks">
+  Web - Framework\
   <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 <div/>
 
 <div id="tools">
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img height=30 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+  Tools\
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+  <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <div/>
   
 Connect with me
