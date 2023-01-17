@@ -1,5 +1,5 @@
 <div style="display:grid;align-items:center;justify-content:center">
-<div style="width: 49%; float: left;">
+<div>
           Languages<br>
           <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
           <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
@@ -7,7 +7,8 @@
           <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
           <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 </div>
-<div style="width: 49%; float: right;">
+<div>
+          IDE
     <img height=30 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img height=30 src="https://github.com/ArunSK-15/ArunSK-15/blob/main/assets/icons/qt.png"/>
 </div>
